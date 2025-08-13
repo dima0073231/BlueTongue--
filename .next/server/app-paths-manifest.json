@@ -1,11 +1,6 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
-  "/book/[id]/page": "app/book/[id]/page.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/library/page": "app/library/page.js",
-  "/login/page": "app/login/page.js",
-  "/native-language/page": "app/native-language/page.js",
   "/page": "app/page.js",
-  "/signup/language/page": "app/signup/language/page.js",
-  "/signup/page": "app/signup/page.js"
+  "/tasks/page": "app/tasks/page.js"
 }
